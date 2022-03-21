@@ -1,25 +1,3 @@
 Calculadora
 
-
-
-<img src="./assets/layout.png" width="250px" alt="layout">
-
-> Resultado do projeto da calculadora
-
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do leandrp"/><br>
-        <sub>
-          <b> Leandro Dias </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![layout](https://user-images.githubusercontent.com/97270163/159194141-83dd020a-e17d-4bd2-bb6a-54235e49231f.png)
