@@ -2,7 +2,7 @@ Calculadora
 
 
 
-<img src="layout.png" alt="exemplo imagem">
+<img src="./assets/layout.png" width="250px" alt="layout">
 
 > Resultado do projeto da calculadora
 
@@ -23,4 +23,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
